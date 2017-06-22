@@ -1,0 +1,9 @@
+Building jackcoin
+
+See doc/readme-qt.rst for instructions on building jackcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of jackcoin.
+
+See doc/build-*.txt for instructions on building jackcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of jackcoin.
